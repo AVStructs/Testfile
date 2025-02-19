@@ -7,5 +7,6 @@ public class main {
         }
         System.out.println("The sum of the array is: " + sum);
         //new comments
+        //
     }
 }
